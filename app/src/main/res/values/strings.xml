@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ConcepciónTur</string>
+    <string name="Boton1">Registrase</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_perfil">Perfil</string>
+    <string name="titulo">Concepción</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="iniciarSes">Iniciar Sesión</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="reppassword">Repetir contraseña</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="miPerfil">Mi Perfil</string>
+    <string name="cerrarSesion">Cerrar Sesión</string>
+</resources>
